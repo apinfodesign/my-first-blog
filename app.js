@@ -1,3 +1,5 @@
+//Miles version of basic blog forked 
+
 var express = require('express');
 var path = require('path');
 var favicon = require('serve-favicon');
